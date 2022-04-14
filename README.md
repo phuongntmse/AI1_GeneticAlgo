@@ -14,3 +14,6 @@ Indications
 3 - Croisement : Choix aléatoire d'individus à croiser (roulette russe) avec un taux de 25% à 75% de remplacement, et choix aléatoires des endroits ou le croisement doit s'effectuer.
 
 4 - Mutation : Taux de mutation très faible (1%). Changer aléatoirement le bit d'un individu
+
+
+Final demo video: https://youtu.be/sN3iLemcgyQ
